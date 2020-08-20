@@ -3,3 +3,5 @@
 Does GitHub retain cross-references when transferring issues?
 
 Moar fixes
+
+Contributions galore
